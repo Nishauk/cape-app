@@ -1,0 +1,112 @@
+.navbar-brand{
+  font-size: xx-large!important;
+  font-weight: bolder;
+  color: rgb(255, 32, 32)!important;
+}
+
+.heading{
+  background-color: rgb(255, 32, 32)!important;
+  margin: 0em;
+  padding: 0em;
+  text-align: center;
+  color: aliceblue;
+}
+
+.homep{
+  text-align: justify;
+}
+
+.sec {
+  border: 2px solid black;
+  margin: 10px;
+  padding: 0px!important;
+  width: 100%;
+  text-align: justify!important;
+
+}
+
+.hrow{
+  justify-content: space-evenly;
+}
+
+
+
+a{
+  text-decoration: none;
+  text-decoration-line: none!important;
+  text-decoration-color: black!important;
+}
+
+.one{
+  margin: 0%;
+  padding: 0px 0px!important;
+
+}
+
+.aboutp{
+  margin: 15px;
+  text-align: justify;
+}
+
+.page{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  
+}
+
+.content-wrap{
+  flex: 1;
+  bottom: 0;
+}
+
+
+
+
+
+.footer{
+  background-color: rgb(255, 32, 32);
+  color: aliceblue;
+  text-align: justify!important;
+  width: 100%;
+  margin-top: auto;
+  bottom: 0px;
+  position: relative;
+  
+}
+
+.footer a{
+  color: aliceblue!important;
+  text-decoration: none!important;
+
+}
+
+.footer ul{
+  list-style: none;
+  padding: 0px!important;
+}
+
+.image-card{
+  
+  object-fit: contain;
+}
+
+.card{
+  
+  margin: 5px;
+}
+
+.form1 {
+  text-align: right;
+ 
+}
+
+.form1 h5{
+  text-align: center;
+  
+}
+
+#navbarNav{
+  background-color: rgba(255, 32, 32, 0.4)!important;
+}
+
